@@ -12,7 +12,7 @@ export const HomeMission = () => {
         <div className="statement">
           <p>
             Provide our customers with fast, most professional, dependable and
-            tecchnologically advanced delivery service in Canada.
+            technologically advanced delivery service in Canada.
           </p>
           <p>
             We strive to accomplish this through fair pricing and always holding

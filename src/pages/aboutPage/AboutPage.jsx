@@ -23,8 +23,8 @@ export const AboutPage = () => {
             well structured foundation. This requires proper network of people,
             the right location and of course the right numbers. (It all comes
             down to the dollar sign). When it comes to shipping and receiving
-            packages it’s all about cheaper, faster and most reliable. Steadfast
-            meets all these requirements and so much more. STP Logistics Inc.
+            packages it’s all about cheaper, faster and most reliable. STP meets
+            all these requirements and so much more. STP Logistics Inc.
             recognizes the value in your business so we provide that extra value
             for your money.
           </p>

@@ -3,6 +3,7 @@ import { ServiceBoxPageContainer, SerBox } from "./ServiceStyles";
 import Service1 from "../../assets/service1.png";
 import Service2 from "../../assets/service2.png";
 import Service3 from "../../assets/service3.png";
+import Service4 from "../../assets/service4.png";
 
 export const ServiceBoxPage = () => {
   return (
@@ -13,14 +14,19 @@ export const ServiceBoxPage = () => {
         serviceSubtitle="From warehouse to welcome mat."
         serviceText="We are focused on handling all your packages with utmost care from the warehouse till the time of drop off at the customer’s doorstep, providing with full transparency."
       />
-
       <ServiceBoxBA
+        serviceImage={Service4}
+        serviceTitle="Warehousing"
+        serviceSubtitle="Fulfilling your customer’s need starts in the warehouse"
+        serviceText="Our warehouses are located throughout major urban and rural centres to get your freight where it needs to go as quickly as possible — regardless of location."
+      />
+      <ServiceBoxAB
         serviceImage={Service2}
         serviceTitle="E-Commerce Delivery"
         serviceSubtitle="We customize our solutions according to your delivery needs."
         serviceText="We manage multiple activities back in the warehouse, needed to get your product to your customers, enabling you to focus on growing your business."
       />
-      <ServiceBoxAB
+      <ServiceBoxBA
         serviceImage={Service3}
         serviceTitle="Sortation Services"
         serviceSubtitle="Fulfilling your customer’s need starts in the warehouse"
