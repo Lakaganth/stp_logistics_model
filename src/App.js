@@ -9,7 +9,7 @@ import { Navbar } from "./components/UI/Navbar";
 import { AdvantagePage } from "./pages/advantagePage/AdvantagePage";
 import { ContactPage } from "./pages/contactPage/ContactPage";
 import { AboutPage } from "./pages/aboutPage/AboutPage";
-import { UnderConstruction } from "./components/UnderConstruction";
+// import { UnderConstruction } from "./components/UnderConstruction";
 
 const App = () => (
   <div className="App">
