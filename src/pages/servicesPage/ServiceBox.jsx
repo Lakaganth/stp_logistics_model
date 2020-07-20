@@ -17,8 +17,8 @@ export const ServiceBoxPage = () => {
       <ServiceBoxBA
         serviceImage={Service4}
         serviceTitle="Warehousing"
-        serviceSubtitle="Fulfilling your customer’s need starts in the warehouse"
-        serviceText="Our warehouses are located throughout major urban and rural centres to get your freight where it needs to go as quickly as possible — regardless of location."
+        serviceSubtitle="Our warehousing helps people, helps business!"
+        serviceText="STP has warehouses located throughout Canada which ensures better transit of goods, diminishing the time it takes to move items between places, reaching the customer’s on time."
       />
       <ServiceBoxAB
         serviceImage={Service2}
